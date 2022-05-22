@@ -5,9 +5,9 @@
         "update_url": null
     },
     "exported_at": "2021-10-19T13:22:35-04:00",
-    "name": "discord.py generic",
+    "name": "python generic",
     "author": "parker@parkervcp.com",
-    "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps:\/\/github.com\/Ispira\/pixel-bot",
+    "description": "A generic egg for python services",
     "features": null,
     "images": [
         "ghcr.io\/parkervcp\/yolks:python_3.10",

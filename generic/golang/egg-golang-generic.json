@@ -4,7 +4,7 @@
         "version": "PTDL_v1"
     },
     "exported_at": "2020-10-11T12:12:50-04:00",
-    "name": "discordgo generic",
+    "name": "golang generic",
     "author": "parker@parkervcp.com",
     "description": "A generic golang egg.\r\n\r\nMeant to be customized before it is used.",
     "image": "quay.io\/parkervcp\/pterodactyl-images:base_debian",
